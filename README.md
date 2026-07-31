@@ -1,6 +1,7 @@
 # Tiny Physics Engine
 
 2D physics engine  in C to understand how game and simulation engines actually work under the hood.
+The project implements a deterministic physics update loop, collision detection and rigid body dynamics from scratch without relying on external physics libraries.
 
 Right now it supports:
 
